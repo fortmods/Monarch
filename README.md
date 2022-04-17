@@ -13,4 +13,4 @@
 - Monarch aims to be an easy to use launcher for as many fortnite builds as possible, while allowing users to easily download a plethora of existing projects through the launcher as well as provide their own local dll files.
 
 #### QnA:
-- Q: "Couldnt I just use Carbon?" A: Yes, carbon works perfectly well for reaching the lobby using neonite, however the goal of this project is to provide more features and a rich user expirience greater than that of carbon. Of course in the current state of Monarch, Carbon has the advantage and is certainly the better option, but as more features pile onto Monarch I intend for this to change!
+- Q: "Couldnt I just use Carbon?" A: Yes, carbon works perfectly well for reaching the lobby using neonite, however the goal of this project is to provide more features and a rich user experience greater than that of carbon. Of course in the current state of Monarch, Carbon has the advantage and is certainly the better option, but as more features pile onto Monarch I intend for this to change!
