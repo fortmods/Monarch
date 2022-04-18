@@ -1,0 +1,31 @@
+{
+  "name": "Monarch",
+  "frontend:build": "",
+  "frontend:install": "",
+  "frontend:dev": "",
+  "frontend:dev:watcher": "",
+  "wailsjsdir": "./frontend",
+  "version": "2",
+  "Path": "",
+  "BuildDir": "",
+  "outputfilename": "Monarch.exe",
+  "OutputType": "",
+  "Platform": "",
+  "runNonNativeBuildHooks": false,
+  "postBuildHooks": null,
+  "Author": {
+    "name": "Distrusttt",
+    "email": "admin@nick.rest"
+  },
+  "Info": {
+    "companyName": "Monarch",
+    "productName": "Monarch",
+    "productVersion": "1.0.0",
+    "copyright": "Copyright.........",
+    "comments": "Built using Wails (https://wails.app)"
+  },
+  "debounceMS": 100,
+  "devserverurl": "http://localhost:34115",
+  "appargs": "",
+  "nsisType": ""
+}

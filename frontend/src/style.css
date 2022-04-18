@@ -1,0 +1,61 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@500&display=swap");
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Inter", sans-serif;
+}
+
+html, body {
+    width: 100%;
+    height: 100%;
+}
+
+body {
+    background-color: #0a0a0a;
+    color: #625EC2;
+    display: grid;
+    place-content: center;
+    grid-gap: .5rem;
+}
+
+.btn {
+    border: none;
+    outline: none;
+    padding: .5rem 1rem;
+    border-radius: 100rem;
+    cursor: pointer;
+    font-size: 1.05rem;
+    transition: .2s;
+    background-color: #625EC2;
+    color: #ffffff;
+}
+
+.btn:hover {
+    background-color: #4f4d9b;
+}
+
+input[type=text] {
+    border: .1rem #625EC2 solid;
+    outline: none;
+    padding: .5rem;
+    border-radius: .3rem;
+    font-size: 1.05rem;
+    transition: .2s;
+    background-color: rgba(0, 0, 0, 0);
+    color: #ffffff;
+}
+
+#game-action-row {
+    display: flex;
+    gap: .5rem;
+}
+
+#game-action-row .btn {
+    width: 50%;
+}
+
+#title {
+    margin-bottom: 1rem;
+}
