@@ -18,5 +18,6 @@
 
 #### Licensing:
 - Monarch: MIT license.
-- Wails (Package used to show gui, serves as go replacement to electron): MIT license.
-- Go (Programming language Monarch is written in): https://github.com/golang/go/blob/master/LICENSE
+- [Wails](https://github.com/wailsapp/wails) (Package used to show gui, serves as go replacement to electron): MIT license.
+- [Go](https://github.com/golang/go) (Programming language Monarch is written in): https://github.com/golang/go/blob/master/LICENSE
+- [PlataniumV2](https://github.com/fortnitemodding/plataniumv2) (Bundled dll ssl bypass used for connecting to neonite): MIT
