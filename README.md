@@ -5,7 +5,7 @@
 2. Download the latest release in the [releases tab](https://github.com/fortmods/Monarch/releases) then extract the contents of the .7z to a folder and run the Monarch.exe file.
 
 ### About:
-- Simple fortnite launcher compatible with private servers on the latest game version (20.20).
+- Simple fortnite launcher compatible with private servers on the latest game version (20.40).
 - Currently targets neonite, but in the future will be bundled with it's own lobby emulator backend.
 - WIP, so obviously not very feature rich at the moment.
 - GUI using [wails](https://wails.io)
